@@ -24,7 +24,7 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+Sensor uses CR2032 and is not rechargeable
 
 <!-- Notes END: Do not edit below this line -->
 
